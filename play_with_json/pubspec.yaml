@@ -1,0 +1,16 @@
+name: play_with_json
+description: A sample command-line application.
+# version: 1.0.0
+# homepage: https://www.example.com
+
+environment:
+  sdk: '>=2.7.0 <3.0.0'
+
+dependencies:
+  edit_json_file:
+    path: /Users/ferdinandsteenkamp/Documents/MyShit/PersonalDev/edit_json_file
+
+
+dev_dependencies:
+  pedantic: ^1.8.0
+  test: ^1.6.0
